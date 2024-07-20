@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popup_fav"
+        android:title="@string/add_to_fav" />
+
+    <item
+        android:id="@+id/popup_share"
+        android:title="@string/share" />
+
+    <item
+        android:id="@+id/popup_comment"
+        android:title="@string/comment" />
+
+</menu>

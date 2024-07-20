@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E8505B</color>
+    <color name="colorPrimaryDark">#C8424C</color>
+    <color name="colorAccent">#063332</color>
+    <color name="colorAccent2">#ffd974</color>
+    <color name="colorPrimaryLight">#F8F8F8</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhite80">#F6F6F6</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGrey">#595959</color>
+    <color name="colorGreyLight">#eae9e9</color>
+    <color name="colorFacebook">#4267B2</color>
+    <color name="colorGoogle">#DB4437</color>
+    <color name="colorSuccess">#42ba96</color>
+    <color name="colorAlert">#D0342C</color>
+    <color name="colorTextHint">#818181</color>
+    <color name="colorShadow">#858585</color>
+    <color name="colorBlack80">#80000000</color>
+    <color name="colorBlack40">#40000000</color>
+    <color name="colorBlack20">#20000000</color>
+    <color name="colorEditTextBG">#2F8F8F8F</color>
+    <color name="colorReportHint">#686868</color>
+    <color name="colorOrange">#FFA500</color>
+    <color name="colorYellow">#ffd974</color>
+    <color name="colorGreen">#3BA424</color>
+    <color name="colorRed">#F44336</color>
+    <color name="shimmer_bg">#9C9C9C</color>
+
+    <color name="colorTextPrimaryGrey">#5C5A5A</color>
+    <color name="colorDivider">#79A5A5A5</color>
+
+    <color name="setting_items_text_color">#394556</color>
+    <color name="coloriconGrey">#A9A9B0</color>
+    <color name="rewardDialogMaskColor">#41FFF8F8</color>
+
+</resources>

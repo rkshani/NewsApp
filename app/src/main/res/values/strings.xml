@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">Andro News</string>
+    <string name="description">Description</string>
+    <string name="description_texts">This is a sample description..</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="applovin_sdk_key">z1dcJN-e3QvVkZAA027tvkCu00IG4SXqWTV_OBTX7lNIpEBU3F9FiXLn9Of4FUry0CVXLykq9HH4G1W873ERk1</string>
+
+    <string name="facebook_app_id">468855961532433</string>
+    <string name="fb_login_protocol_scheme">fb468855961532433</string>
+    <string name="facebook_client_token">4688a1db821a0d6085abdd2a84783ac1</string>
+
+    <string name="about_us">About Us</string>
+    <string name="about_us_version">Version</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">support@andromob.in</string>
+    <string name="about_us_contact">Contact</string>
+    <string name="about_us_contact_text">+91 9725868313</string>
+    <string name="about_us_developer">Developer</string>
+    <string name="about_us_developer_name">AndroMOB</string>
+
+    <string name="live">Live</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="home">Home</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Share App</string>
+    <string name="exit">Exit</string>
+
+    <string name="exit_dialog_text">Are sure want to quit ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="something_went_wrong">Something Went Wrong!</string>
+
+    <string name="image">image</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="msg_whoops">Whoops!</string>
+    <string name="msg_failed">Failed to load stream, probably the stream server currently down!</string>
+    <string name="retry">Retry</string>
+
+    <string name="connection_msg">Something went wrong!!!</string>
+    <string name="no_internet_msg">No Internet Connection!!!</string>
+    <string name="check_internet">Please check your internet connection</string>
+    <string name="try_again">Something Went Wrong! Please try again</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="overview">Overview</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</string>
+    <string name="login">Login</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone">Phone</string>
+
+    <string name="forget_password">Forget Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="forget_your_password">Forget Your Password?</string>
+    <string name="forget_password_msg">Enter your valid details below to get new password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="reset_success">Password reset successfully, please check your mail</string>
+    <string name="reset_fail">Password reset failed, invalid details provided</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="skip">Skip</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="ok">OK</string>
+    <string name="posts">Posts</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="reward_history">Reward History</string>
+    <string name="reward_points_history">Reward Points History</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="delete_my_account">Delete My Account</string>
+    <string name="add_news">Add News</string>
+    <string name="edit_news">Edit News</string>
+    <string name="bullet">\u2022</string>
+    <string name="save">Save</string>
+
+    <string name="view_all">View All</string>
+    <string name="added_to_fav">Added To Favorite</string>
+    <string name="removed_from_fav">Removed From Favorite</string>
+    <string name="report_hint">Write your report here..</string>
+    <string name="report">Report</string>
+    <string name="send">Send</string>
+    <string name="report_sent_msg">Report sent successfully</string>
+    <string name="report_failed_msg">Report sent failed</string>
+    <string name="update">Update</string>
+
+    <string name="share_app_text">Let me recommend you this application\n\n</string>
+    <string name="enter_valid_email_msg">Please enter a valid email</string>
+    <string name="enter_confirm_password_msg">Please enter confirm password</string>
+    <string name="password_not_match_msg">Password not matching</string>
+    <string name="delete_account_instruction">Please contact support team to delete your account.</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="waiting">Waiting</string>
+    <string name="approved">Approved</string>
+    <string name="rejected">Rejected</string>
+    <string name="disabled">Disabled</string>
+    <string name="edit">Edit</string>
+    <string name="comments">Comments</string>
+    <string name="all_comments">All Comments</string>
+    <string name="write_comment_msg">Write your comment here..</string>
+    <string name="you_may_also_like_this">You may also like this</string>
+    <string name="for_you">For You</string>
+    <string name="popular">Popular</string>
+    <string name="whoops">WHOOPS!!</string>
+    <string name="no_data_found_msg">No data found!</string>
+    <string name="default_posted_by">Admin</string>
+    <string name="categories">Categories</string>
+    <string name="most_viewed">Most Viewed</string>
+    <string name="trending">Trending</string>
+    <string name="latest">Latest</string>
+    <string name="videos">Videos</string>
+    <string name="search">Search</string>
+    <string name="comment_empty">Comment can’t be empty!</string>
+    <string name="comment_submitted">Comment Submitted Successfully</string>
+    <string name="comment_failed">Comment submit failed, please try again..</string>
+    <string name="share">Share</string>
+    <string name="comment">Comment</string>
+    <string name="add_to_fav">Add To Favorite</string>
+    <string name="remove_from_fav">Remove From Favorite</string>
+    <string name="no_comments">No Comments</string>
+    <string name="select_category">Select Category</string>
+    <string name="news_title">News Title</string>
+    <string name="select_type">Select Type</string>
+    <string name="news">News Content</string>
+    <string name="video_url">Video Url</string>
+    <string name="select_image">Select Image</string>
+    <string name="field_empty_msg">This field cannot be empty</string>
+    <string name="news_empty_msg">News cannot be empty</string>
+    <string name="submit">Submit</string>
+    <string name="select_image_msg">Please select image</string>
+    <string name="news_added">News added successfully</string>
+    <string name="news_updated">News updated successfully</string>
+
+    <string name="help_center">Help Center</string>
+    <string name="rate_us_five">Rate us Five</string>
+    <string name="share_with_friends">Share with Friends</string>
+    <string name="new_update_available">New Update is Available</string>
+    <string name="cancel">Cancel</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="available_balance">Available Balance</string>
+    <string name="redeem_points">Redeem Points</string>
+    <string name="redeem_now">Redeem Now</string>
+    <string name="earn_history">Earn History</string>
+    <string name="withdrawal_history">Withdrawal History</string>
+    <string name="points">Points</string>
+    <string name="details">Details</string>
+    <string name="user_points">User Points</string>
+    <string name="pending">Pending</string>
+    <string name="paid">Paid</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="your_balance">Your Balance :</string>
+    <string name="select_method">Select Method</string>
+    <string name="add_payment_details">Add your payment details</string>
+    <string name="redeem_heading">Please select payment method and fill the details, we\'ll process your payment within 1 week.</string>
+    <string name="did_you_know">Did you know ?</string>
+    <string name="you_can_earn_msg">You can earn reward points by reading each &amp; every news, you must need to be log in to earn rewards</string>
+    <string name="login_now">Login Now</string>
+    <string name="news_rewards">News Rewards</string>
+    <string name="congrats">Congrats!!</string>
+    <string name="adding_reward_msg">Please wait, adding rewards to your account..</string>
+    <string name="reward_earned_msg">You\'ve earned a new reward..</string>
+    <string name="not_logged_msg">You\'re not logged in</string>
+    <string name="login_to_continue_msg">Please login to continue</string>
+    <string name="not_eligible">Not Eligible</string>
+    <string name="not_eligible_msg_before">You\'re not eligible to redeem points, minimum</string>
+    <string name="not_eligible_msg_after">points required to redeem</string>
+    <string name="terms_and_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="message">Message</string>
+    <string name="subject">Subject</string>
+    <string name="contact_us_message">We\'re here to help and answer any question you might have, We look forward to hearing from you.</string>
+    <string name="news_read">News Read</string>
+    <string name="register_agree_msg">By creating an account, you agree with our</string>
+    <string name="terms_and_privacy"><![CDATA[Terms & Privacy]]></string>
+    <string name="in_progress">In Progress</string>
+    <string name="cant_submit_empty_report">Can\'t submit empty report</string>
+
+
+    <string name="add_news_type_image">Image</string>
+    <string name="add_news_type_video">Video</string>
+    <string name="insert_news_content_msg">Insert news content here…</string>
+    <string name="cant_get_reward_msg">Can\'t get Rewards due to app closed.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
